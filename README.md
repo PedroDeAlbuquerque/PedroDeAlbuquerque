@@ -1,7 +1,6 @@
 - @PedroDeAlbuquerque
 - Analista Desenvolvedor focado em desenvolvimento de jogos, atualmente desenvolvendo um game indie solo utilizando GameMaker Studio 2 e atuando em projetos em equipe com Unity e GameMaker Studio 2
-- Proficiente em GML e GameMaker Studio 2
-- Habilidade intermediária em C# e Unity
+- Proficiente em GML e GameMaker Studio 2, C# e Unity
 - Procuro atuar em projetos desenvolvidos em Unity ou GameMaker Studio 2
 - Email: pedro.de.albuquerque@hotmail.com
 
